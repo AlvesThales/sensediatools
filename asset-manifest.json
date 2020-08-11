@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sensediatools/static/css/main.f1363884.chunk.css",
+    "main.js": "/sensediatools/static/js/main.c3604b04.chunk.js",
+    "main.js.map": "/sensediatools/static/js/main.c3604b04.chunk.js.map",
+    "runtime-main.js": "/sensediatools/static/js/runtime-main.939b7d7b.js",
+    "runtime-main.js.map": "/sensediatools/static/js/runtime-main.939b7d7b.js.map",
+    "static/css/2.8b81dbfa.chunk.css": "/sensediatools/static/css/2.8b81dbfa.chunk.css",
+    "static/js/2.dcb00858.chunk.js": "/sensediatools/static/js/2.dcb00858.chunk.js",
+    "static/js/2.dcb00858.chunk.js.map": "/sensediatools/static/js/2.dcb00858.chunk.js.map",
+    "index.html": "/sensediatools/index.html",
+    "precache-manifest.a167da21dea7c7eed879fe450adc6513.js": "/sensediatools/precache-manifest.a167da21dea7c7eed879fe450adc6513.js",
+    "service-worker.js": "/sensediatools/service-worker.js",
+    "static/css/2.8b81dbfa.chunk.css.map": "/sensediatools/static/css/2.8b81dbfa.chunk.css.map",
+    "static/css/main.f1363884.chunk.css.map": "/sensediatools/static/css/main.f1363884.chunk.css.map",
+    "static/js/2.dcb00858.chunk.js.LICENSE.txt": "/sensediatools/static/js/2.dcb00858.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.939b7d7b.js",
+    "static/css/2.8b81dbfa.chunk.css",
+    "static/js/2.dcb00858.chunk.js",
+    "static/css/main.f1363884.chunk.css",
+    "static/js/main.c3604b04.chunk.js"
+  ]
+}
